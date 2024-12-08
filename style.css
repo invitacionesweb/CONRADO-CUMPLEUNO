@@ -94,11 +94,13 @@ header .header-info {
 }
 .fecha {
     width: 100%;
-    max-width: 500px;
     padding: auto;
     display: flex;
     align-items: center;
     justify-content: center;
+}
+.fecha img {
+    max-width: 400px;
 }
 /* TODO AUIDO */
 .audiodiv {
