@@ -402,4 +402,11 @@ footer img {
     .f2, .f3, .f4 {
         display: none;
     }
+    .BOTONES {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        gap: 4PX;
+    }
 }
